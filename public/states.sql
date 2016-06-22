@@ -1,0 +1,55 @@
+CREATE TABLE states (
+    `id` INT,
+    `name` VARCHAR(15) CHARACTER SET utf8,
+    `code` VARCHAR(3) CHARACTER SET utf8
+);
+INSERT INTO states VALUES (1,'Alabama','AL');
+INSERT INTO states VALUES (2,'Alaska','AK');
+INSERT INTO states VALUES (3,'Arizona','AZ');
+INSERT INTO states VALUES (4,'Arkansas','AR');
+INSERT INTO states VALUES (5,'California','CA');
+INSERT INTO states VALUES (6,'Colorado','CO');
+INSERT INTO states VALUES (7,'Connecticut','CT');
+INSERT INTO states VALUES (8,'Delaware','DE');
+INSERT INTO states VALUES (9,'Florida','FL');
+INSERT INTO states VALUES (10,'Georgia','GA');
+INSERT INTO states VALUES (11,'Hawaii','HI');
+INSERT INTO states VALUES (12,'Idaho','ID');
+INSERT INTO states VALUES (13,'Illinois','IL');
+INSERT INTO states VALUES (14,'Indiana','IN');
+INSERT INTO states VALUES (15,'Iowa','IA');
+INSERT INTO states VALUES (16,'Kansas','KS');
+INSERT INTO states VALUES (17,'Kentucky','KY');
+INSERT INTO states VALUES (18,'Louisiana','LA');
+INSERT INTO states VALUES (19,'Maine','ME');
+INSERT INTO states VALUES (20,'Maryland','MD');
+INSERT INTO states VALUES (21,'Massachusetts','MA');
+INSERT INTO states VALUES (22,'Michigan','MI');
+INSERT INTO states VALUES (23,'Minnesota','MN');
+INSERT INTO states VALUES (24,'Mississippi','MS');
+INSERT INTO states VALUES (25,'Missouri','MO');
+INSERT INTO states VALUES (26,'Montana','MT');
+INSERT INTO states VALUES (27,'Nebraska','NE');
+INSERT INTO states VALUES (28,'Nevada','NV');
+INSERT INTO states VALUES (29,'New Hampshire','NH');
+INSERT INTO states VALUES (30,'New Jersey','NJ');
+INSERT INTO states VALUES (31,'New Mexico','NM');
+INSERT INTO states VALUES (32,'New York','NY');
+INSERT INTO states VALUES (33,'North Carolina','NC');
+INSERT INTO states VALUES (34,'North Dakota','ND');
+INSERT INTO states VALUES (35,'Ohio','OH');
+INSERT INTO states VALUES (36,'Oklahoma','OK');
+INSERT INTO states VALUES (37,'Oregon','OR');
+INSERT INTO states VALUES (38,'Pennsylvania','PA');
+INSERT INTO states VALUES (39,'Rhode Island','RI');
+INSERT INTO states VALUES (40,'South Carolina','SC');
+INSERT INTO states VALUES (41,'South Dakota','SD');
+INSERT INTO states VALUES (42,'Tennessee','TN');
+INSERT INTO states VALUES (43,'Texas','TX');
+INSERT INTO states VALUES (44,'Utah','UT');
+INSERT INTO states VALUES (45,'Vermont','VT');
+INSERT INTO states VALUES (46,'Virginia','VA');
+INSERT INTO states VALUES (47,'Washington','WA');
+INSERT INTO states VALUES (48,'West Virginia','WV');
+INSERT INTO states VALUES (49,'Wisconsin','WI');
+INSERT INTO states VALUES (50,'Wyoming','WY');
